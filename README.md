@@ -10,7 +10,7 @@ Edge and selected Microsoft Print to PDF function. Then sized the job to 50% and
 ### Prerequisites
 
 1) Code editor such as Visual Studio Code, Sublime, Textmate, etc.
-2) Web Browser (Microsoft Edge preffered).
+2) Web Browser (Microsoft Edge preferred).
 3) Print to PDF functionality in web browser.
 
 ### Installing
